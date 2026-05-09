@@ -248,9 +248,7 @@ function Home() {
                           <span className="font-semibold">
                             Posted:
                           </span>{" "}
-                          {new Date(
-                            story.postedAt
-                          ).toLocaleString()}
+                          {story.postedAt}
                         </p>
 
                       </div>
