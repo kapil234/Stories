@@ -4,13 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
     "test": "echo \"Error: no test specified\" && exit 1"
-=======
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "server": "nodemon index.js"
->>>>>>> df47d56 (Initial project setup (frontend + backend))
   },
   "keywords": [],
   "author": "",
@@ -20,21 +14,10 @@
     "axios": "^1.16.0",
     "bcryptjs": "^3.0.3",
     "cheerio": "^1.2.0",
-<<<<<<< HEAD
-=======
-    "cookie-parser": "^1.4.7",
->>>>>>> df47d56 (Initial project setup (frontend + backend))
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1",
     "jsonwebtoken": "^9.0.3",
-<<<<<<< HEAD
     "mongoose": "^9.6.2"
-=======
-    "mongoose": "^9.6.1"
-  },
-  "devDependencies": {
-    "nodemon": "^3.1.14"
->>>>>>> df47d56 (Initial project setup (frontend + backend))
   }
 }
