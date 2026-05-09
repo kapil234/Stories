@@ -1,0 +1,11 @@
+# dependencies
+<<<<<<< HEAD
+node_modules
+
+# env files
+=======
+node_modules/
+
+# environment variables
+>>>>>>> df47d56 (Initial project setup (frontend + backend))
+.env
